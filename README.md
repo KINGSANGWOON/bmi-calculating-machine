@@ -1,16 +1,16 @@
 # bmi-calculating-machine
 
-#view
+## view
 LinearLayout
 TextView
 EditText
 Button
 
-#Grammar
+## Grammar
 when
 lambda function
 
-#Calculation method
+## Calculation method
 weight(kg)/height(m) * height(m)
 
 18.5 이하 -> 저체중
